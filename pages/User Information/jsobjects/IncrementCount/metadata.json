@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "IncrementCount",
+    "pageId": "User Information",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "counter",
+        "value": "1"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "User Information_IncrementCount",
+  "deleted": false,
+  "gitSyncId": "6505a3f3dc231e2774651738_6505aa81dc231e277465174e"
+}
