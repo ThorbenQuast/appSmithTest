@@ -87,9 +87,10 @@
     "columnWidthMap": {},
     "parentRowSpace": 10,
     "hideCard": false,
+    "onAddNewRowSave": "{{TableSummary.ComputSummary();}}",
     "mobileRightColumn": 27,
     "parentColumnSpace": 20.078125,
-    "dynamicTriggerPathList": [],
+    "dynamicTriggerPathList": [{"key": "onAddNewRowSave"}],
     "borderWidth": "1",
     "primaryColumns": {
         "image": {
@@ -369,6 +370,7 @@
     "rightColumn": 32,
     "textSize": "0.875rem",
     "widgetId": "518j8p8dgg",
+    "allowAddNewRow": true,
     "minWidth": 450,
     "tableData": "{{getUsers.data}}",
     "label": "Data",

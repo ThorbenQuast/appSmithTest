@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 37,
     "widgetName": "Button1",
-    "onClick": "{{updateUsers.run().then(() => {\n  getUsers.run();\n});}}",
+    "onClick": "{{updateUsers.run().then(() => {\n  getUsers.run();\n  TableSummary.ComputSummary();\n});}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",

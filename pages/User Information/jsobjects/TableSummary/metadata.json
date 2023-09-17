@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "TableSummary",
+    "pageId": "User Information",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "maleCount",
+        "value": "0"
+      },
+      {
+        "name": "femaleCount",
+        "value": "0"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "User Information_TableSummary",
+  "deleted": false,
+  "gitSyncId": "6505a3f3dc231e2774651738_65074f49dc231e2774651764"
+}

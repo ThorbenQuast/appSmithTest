@@ -15,7 +15,7 @@
     "parentColumnSpace": 9.7265625,
     "dynamicTriggerPathList": [{"key": "onClick"}],
     "imageShape": "RECTANGLE",
-    "leftColumn": 40,
+    "leftColumn": 41,
     "dynamicBindingPathList": [
         {"key": "borderRadius"},
         {"key": "defaultImage"}
@@ -24,7 +24,7 @@
     "key": "n9md12ibb6",
     "image": "",
     "isDeprecated": false,
-    "rightColumn": 63,
+    "rightColumn": 64,
     "objectFit": "cover",
     "widgetId": "7sv2lscntq",
     "isVisible": true,

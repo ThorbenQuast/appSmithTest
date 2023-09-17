@@ -6,7 +6,7 @@
     "labelWidth": 5,
     "type": "DATE_PICKER_WIDGET2",
     "animateLoading": true,
-    "leftColumn": 2,
+    "leftColumn": 21,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"},
@@ -42,7 +42,7 @@
     "labelTextSize": "0.875rem",
     "defaultDate": "{{usersTable.selectedRow.dob}}",
     "isDeprecated": false,
-    "rightColumn": 22,
+    "rightColumn": 41,
     "widgetId": "z69wrehnae",
     "minWidth": 450,
     "label": "Date of birth",

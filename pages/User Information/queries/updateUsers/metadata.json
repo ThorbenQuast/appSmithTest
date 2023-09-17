@@ -18,7 +18,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "UPDATE users \nSET name = {{nameInput.text}}, \nemail = {{emailInput.text}}, \ndob = {{dobInput.selectedDate}}\nWHERE id = {{usersTable.selectedRow.id}} ",
+      "body": "UPDATE users \nSET name = {{nameInput.text}}, \nemail = {{emailInput.text}}, \ngender = {{GenderInput.selectedOptionValue}}, \ndob = {{dobInput.selectedDate}}\nWHERE id = {{usersTable.selectedRow.id}} ",
       "selfReferencingDataPaths": [],
       "pluginSpecifiedTemplates": [
         {
@@ -36,6 +36,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
+      "GenderInput.selectedOptionValue",
       "dobInput.selectedDate",
       "emailInput.text",
       "nameInput.text",
